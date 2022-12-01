@@ -1,0 +1,25 @@
+.flex{
+    margin-top: 10vh;
+    display: flex;
+    justify-content: center;
+    gap:10vw;
+    background-color: #0496FF;
+    padding:20px;
+    border-radius:10px;
+}
+.form{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.form-control{
+    width:25vw;
+}
+.main{
+    background-color: #1F439D;
+    height: 88.8vh;
+}
+.btn-primary{
+    width:20vw;
+}

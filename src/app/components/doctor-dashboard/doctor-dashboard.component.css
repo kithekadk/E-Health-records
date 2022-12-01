@@ -1,0 +1,12 @@
+.main{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 100vw;
+    background-color: #1F439D;
+}
+
+.flex{
+    display: flex;
+    font-size: 20px;
+}
